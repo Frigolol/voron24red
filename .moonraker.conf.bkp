@@ -76,7 +76,3 @@ path = ~/klipper_z_calibration
 origin = https://github.com/protoloft/klipper_z_calibration.git
 managed_services = klipper
 
-[spoolman]
-server = http://192.168.1.37:7912
-sync_rate = 5
-
